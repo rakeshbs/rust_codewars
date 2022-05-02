@@ -1,1 +1,1 @@
-# rust_codewars
+Attempt to practice rust through codewars
